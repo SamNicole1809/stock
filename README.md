@@ -1,2 +1,2 @@
 # stock
-stock system
+My first program!
